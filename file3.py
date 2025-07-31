@@ -9,3 +9,8 @@ y=5
 
 d=z-y
 print(d)
+
+
+a=8
+b=5
+print(a*b)
